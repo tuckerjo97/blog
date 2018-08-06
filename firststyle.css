@@ -4,7 +4,7 @@
 }
 
 .main {
-	height: 5000px;
+	height: auto;
 	max-width: 800px;
 	margin: auto;
 	margin-top: 60px;	
@@ -31,7 +31,7 @@
 	font-size: 25px;
 }
 
-.sidenav a:hover{
+.sidenav a:hover {
 	color: red;
 	border: 2px solid blue;
 	background-color: blue;
