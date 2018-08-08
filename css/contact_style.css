@@ -1,9 +1,11 @@
+/* Standard page style for background and side nav */
+
 .body {
-	background-image: url(images/tropics.jpg);
+	background-image: url(../images/tropics.jpg);
 	background-attachment: fixed;
 }
 
-.main {
+.container {
 	height: auto;
 	max-width: 800px;
 	margin: auto;
@@ -36,3 +38,12 @@
 	border: 2px solid blue;
 	background-color: blue;
 }
+
+/* Contact specific style */
+
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+
